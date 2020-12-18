@@ -1,0 +1,93 @@
+[
+    {
+        "name": "Model 3",
+        "seats": 5,
+        "price": 20.0,
+        "range": "530 Km",
+        "owner": "Lisa Neumann",
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fst.automobilemag.com%2Fuploads%2Fsites%2F11%2F2016%2F03%2FTesla-Model-3-rear-side-view-from-above-in-red.jpg&f=1&nofb=1",
+        "location": {
+            "country": "Germany",
+            "location": "30177 Hannover, Constantinstraße 99"
+        },
+        "time_av": 3.0
+    },
+    {
+        "name": "Model 3",
+        "seats": 5,
+        "price": 30.0,
+        "range": "530 Km",
+        "owner": "Max Meyer",
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fst.automobilemag.com%2Fuploads%2Fsites%2F11%2F2016%2F03%2FTesla-Model-3-rear-side-view-from-above-in-red.jpg&f=1&nofb=1",
+        "location": {
+            "country": "Germany",
+            "location": "30175 Hannover, Spangenstraße 99"
+        },
+        "time_av": 1.5
+    },
+    {
+        "name": "Model 3",
+        "seats": 5,
+        "price": 18.0,
+        "range": "550 Km",
+        "owner": "Lina Sanderson",
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fst.automobilemag.com%2Fuploads%2Fsites%2F11%2F2016%2F03%2FTesla-Model-3-rear-side-view-from-above-in-red.jpg&f=1&nofb=1",
+        "location": {
+            "country": "USA",
+            "location": "Michigan, Abraham Street 45"
+        },
+        "time_av": 2.0
+    },
+    {
+        "name": "Model S",
+        "seats": 5,
+        "price": 18.0,
+        "range": "530+ Km",
+        "owner": "Lina Sanderson",
+        "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fst.motortrend.ca%2Fuploads%2Fsites%2F10%2F2016%2F05%2F2016-Tesla-Model-S-P90D-front-three-quarter.jpg&f=1&nofb=1",
+        "location": {
+            "country": "USA",
+            "location": "Michigan, Abraham Street 45"
+        },
+        "time_av": 3.5
+    },
+    {
+        "name": "Model S",
+        "seats": 5,
+        "price": 50.0,
+        "range": "530+ Km",
+        "owner": "Mia Hudson",
+        "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fst.motortrend.ca%2Fuploads%2Fsites%2F10%2F2016%2F05%2F2016-Tesla-Model-S-P90D-front-three-quarter.jpg&f=1&nofb=1",
+        "location": {
+            "country": "USA",
+            "location": "California, Golden Street 45"
+        },
+        "time_av": 5.0
+    },
+    {
+        "name": "Model X",
+        "price": 22.5,
+        "seats": 7,
+        "range": "507 Km",
+        "owner": "Mia Hudson",
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs3.caradvice.com.au%2Fwp-content%2Fuploads%2F2017%2F01%2F2017_tesla_model-x_07.jpg&f=1&nofb=1",
+        "location": {
+            "country": "USA",
+            "location": "California, Golden Street 45"
+        },
+        "time_av": 5.0
+    },
+    {
+        "name": "Model X",
+        "price": 22.5,
+        "seats": 7,
+        "range": "507 Km",
+        "owner": "Hanna Ivy",
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs3.caradvice.com.au%2Fwp-content%2Fuploads%2F2017%2F01%2F2017_tesla_model-x_07.jpg&f=1&nofb=1",
+        "location": {
+            "country": "USA",
+            "location": "California, Golden Street 45"
+        },
+        "time_av": 5.0
+    }
+]
